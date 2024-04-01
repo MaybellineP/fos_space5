@@ -88,7 +88,7 @@
     }
 
     .data-item {
-      color: #232629;
+      //color: $primary;
       font-size: 13px;
       @include apply-opacity($primary, 10);
       padding: 8px;
