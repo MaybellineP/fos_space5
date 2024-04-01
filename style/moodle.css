@@ -1129,7 +1129,7 @@ h5 {
 }
 .svw-body .svw-cstm_frm .item_custom .cnt_row1 .col1 .data-cnt {
   grid-area: data-cnt;
-  color: rgba(0, 0, 0, 0);
+  color: #232629;
 }
 .svw-body .svw-cstm_frm .item_custom .cnt_row1 .col2 {
   display: grid;
@@ -1156,7 +1156,7 @@ h5 {
 }
 .svw-body .svw-cstm_frm .item_custom .cnt_row1 .col2 .data-cnt {
   grid-area: data-cnt;
-  color: rgba(0, 0, 0, 0);
+  color: #232629;
 }
 .svw-body .svw-cstm_frm .item_custom .cnt_row2 {
   display: grid;
@@ -1183,7 +1183,7 @@ h5 {
 }
 .svw-body .svw-cstm_frm .item_custom .cnt_row2 .data-cnt {
   grid-area: data-cnt;
-  color: rgba(0, 0, 0, 0);
+  color: #232629;
 }
 .svw-body .svw-cstm_frm .item_custom .cnt_row3 {
   display: grid;
@@ -1210,7 +1210,7 @@ h5 {
 }
 .svw-body .svw-cstm_frm .item_custom .cnt_row3 .data-cnt {
   grid-area: data-cnt;
-  color: rgba(0, 0, 0, 0);
+  color: #232629;
 }
 .svw-body .svw-cstm_frm .item_custom .cnt_row4 {
   display: grid;
@@ -1237,7 +1237,7 @@ h5 {
 }
 .svw-body .svw-cstm_frm .item_custom .cnt_row4 .data-cnt {
   grid-area: data-cnt;
-  color: rgba(0, 0, 0, 0);
+  color: #232629;
 }
 .svw-body .svw-cstm_frm .item_custom .cnt_row5 {
   display: grid;
@@ -1272,7 +1272,7 @@ h5 {
 }
 .svw-body .svw-cstm_frm .item_custom .cnt_row5 .col1 .data-cnt {
   grid-area: data-cnt;
-  color: rgba(0, 0, 0, 0);
+  color: #232629;
 }
 .svw-body .svw-cstm_frm .item_custom .cnt_row5 .col2 {
   display: grid;
@@ -1299,7 +1299,7 @@ h5 {
 }
 .svw-body .svw-cstm_frm .item_custom .cnt_row5 .col2 .data-cnt {
   grid-area: data-cnt;
-  color: rgba(0, 0, 0, 0);
+  color: #232629;
 }
 .svw-body .svw-cstm_frm .item_custom .cnt_row6 {
   display: grid;
@@ -1326,7 +1326,7 @@ h5 {
 }
 .svw-body .svw-cstm_frm .item_custom .cnt_row6 .data-cnt {
   grid-area: data-cnt;
-  color: rgba(0, 0, 0, 0);
+  color: #232629;
 }
 .svw-body .svw-cstm_frm .item_custom .cnt_row7 {
   display: grid;
@@ -1353,7 +1353,7 @@ h5 {
 }
 .svw-body .svw-cstm_frm .item_custom .cnt_row7 .data-cnt {
   grid-area: data-cnt;
-  color: rgba(0, 0, 0, 0);
+  color: #232629;
 }
 .svw-body .svw-cstm_frm .item_custom .cnt_row8 {
   display: grid;
@@ -1380,7 +1380,7 @@ h5 {
 }
 .svw-body .svw-cstm_frm .item_custom .cnt_row8 .data-cnt {
   grid-area: data-cnt;
-  color: rgba(0, 0, 0, 0);
+  color: #232629;
 }
 .svw-body .svw-cstm_frm .item_custom .cnt_row9 {
   display: grid;
@@ -1407,7 +1407,7 @@ h5 {
 }
 .svw-body .svw-cstm_frm .item_custom .cnt_row9 .data-cnt {
   grid-area: data-cnt;
-  color: rgba(0, 0, 0, 0);
+  color: #232629;
 }
 .slst_body {
   width: auto;
@@ -1496,7 +1496,7 @@ h5 {
   top: 61px;
 }
 .slst_body .table-card-slst .data-item {
-  color: rgba(0, 0, 0, 0);
+  color: #232629;
   font-size: 13px;
   background-color: rgba(232, 205, 10, 0.1);
   padding: 8px;
