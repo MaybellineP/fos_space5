@@ -1485,6 +1485,7 @@ h5 {
   top: 61px;
 }
 .slst_body .table-card-slst .data-item {
+  color: #333 !important;
   font-size: 13px;
   background-color: rgba(232, 205, 10, 0.1);
   padding: 8px;
