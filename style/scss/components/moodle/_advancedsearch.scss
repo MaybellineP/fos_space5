@@ -3,9 +3,9 @@
   display: grid;
 
   tbody {
-    color: $FOS-Aubergine;
+    color: $primary;
     font-size: 13px;
-    background-color: rgba(92,56,115,.1);
+    @include apply-opacity($primary, 10);
     padding-bottom: 16px;
 
     tr {
@@ -78,7 +78,6 @@
                 .form-inline {
                   display: flex;
                   flex-flow: row wrap;
-                  width: 60%;
                   align-items: center;
                   gap: 5px 5px;
                   select {

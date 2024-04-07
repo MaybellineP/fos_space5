@@ -5779,9 +5779,9 @@ a.ygtvspacer:hover {
   display: grid;
 }
 .boxaligncenter tbody {
-  color: #5c3873;
+  color: #e8cd0a;
   font-size: 13px;
-  background-color: rgba(92, 56, 115, 0.1);
+  background-color: rgba(232, 205, 10, 0.1);
   padding-bottom: 16px;
 }
 .boxaligncenter tbody tr:first-child {
@@ -5819,7 +5819,7 @@ a.ygtvspacer:hover {
 }
 .boxaligncenter tbody tr td .advancesearch .col1 .item1 select {
   width: 100%;
-  border: 1px solid #5c3873;
+  border: 1px solid #e8cd0a;
   border-radius: 0;
   align-content: left;
   background-color: #FFFEF2;
@@ -5832,7 +5832,7 @@ a.ygtvspacer:hover {
 }
 .boxaligncenter tbody tr td .advancesearch .col1 .item2 .template-token {
   width: 100%;
-  border: 1px solid #5c3873;
+  border: 1px solid #e8cd0a;
   border-radius: 0;
   align-content: left;
   background-color: #FFFEF2;
@@ -5854,7 +5854,7 @@ a.ygtvspacer:hover {
 .boxaligncenter tbody tr td .advancesearch .col2 .item1 input,
 .boxaligncenter tbody tr td .advancesearch .col2 .item4 input {
   width: 100%;
-  border: 1px solid #5c3873;
+  border: 1px solid #e8cd0a;
   border-radius: 0;
   align-content: left;
   background-color: #FFFEF2;
@@ -5868,7 +5868,7 @@ a.ygtvspacer:hover {
 .boxaligncenter tbody tr td .advancesearch .col2 .item2 select,
 .boxaligncenter tbody tr td .advancesearch .col2 .item3 select {
   width: 100%;
-  border: 1px solid #5c3873;
+  border: 1px solid #e8cd0a;
   border-radius: 0;
   align-content: left;
   background-color: #FFFEF2;
@@ -5876,7 +5876,6 @@ a.ygtvspacer:hover {
 .boxaligncenter tbody tr td .advancesearch .col2 .item5 .template-token .form-inline {
   display: flex;
   flex-flow: row wrap;
-  width: 60%;
   align-items: center;
   gap: 5px 5px;
 }
